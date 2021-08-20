@@ -156,6 +156,6 @@ body {
     }
 
     .card-header, .card-prices, .card-benefits {
-        padding: 2.75rem 2.5rem;
+        padding: 2.75rem 2.5rem 1.5rem 2.5rem;
     }
 }
