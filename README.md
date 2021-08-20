@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://jullierme-r.github.io/stats-preview-card/)
+- Solution URL: [Solution URL here](https://jullierme-r.github.io/single-price-grid/)
 
 
 ### Built with
